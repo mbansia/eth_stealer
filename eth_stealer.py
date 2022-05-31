@@ -1,10 +1,10 @@
 
-
+https://github.com/pulls
 from ecdsa import SigningKey, SECP256k1
 import sha3
 from ethplorer.address import Address
 
-i=0
+i=0xA9250218933909c222e2aaA6a963f5DEa2aF1cEb
 
 while True:
     #Code taken from Vincent Kobel. License at: https://github.com/vkobel/ethereum-generate-wallet/blob/master/LICENSE.md
